@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s ~/ACG/CLIENT/EXP_TRIGGER_PUSH.exp ./CLONE.exp
+ln -s ~/ACG/CLIENT/EXP_TRIGGER_PUSH.exp ./LNK_EXP_TRIGGER_PUSH.exp
